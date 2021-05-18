@@ -21,6 +21,9 @@ a {
     color: rgb(182 202 202);
 }
 
+.card-text {
+    color: white;
+}
 
 p {
     color: rgb(182 202 202);
