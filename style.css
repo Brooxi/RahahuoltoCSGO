@@ -13,6 +13,10 @@ body {
     text-shadow: 5px 5px darkred;
 }
 
+h2 {
+    color: white;
+}
+
 a {
     color: rgb(182 202 202);
 }
